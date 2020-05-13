@@ -84,6 +84,12 @@ header .textos-header{
     display: inline-block;
     animation: moversuptitulo 1.1s ease-in;
 }
+.textos-header .algo{
+    font-size: 30px;
+    font-weight: 300;
+    color:#fff;
+    display: inline-block;
+}
 
 .wave{
     position: absolute;
